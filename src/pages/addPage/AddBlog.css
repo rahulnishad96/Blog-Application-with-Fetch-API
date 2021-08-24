@@ -1,0 +1,29 @@
+.add-page .title{
+    
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 5px;
+    width: 400px;
+    background-color: rgb(200, 235, 238);
+}
+.add-page .description
+{
+    width: 400px;
+    background-color: rgb(197, 232, 235);
+    margin: 15px 60px 20px 10px;
+    border: 1px solid black;
+    font-size: 16px;
+}
+.add-page .status
+{
+    border-radius: 5px;
+    width: 420px;
+    font-size: 16px;
+    margin: 10px 120px 30px 10px;
+    background-color: rgb(197, 232, 235);
+    padding: 8px;
+}
+.add-page label
+{
+    font-weight: 700;
+}

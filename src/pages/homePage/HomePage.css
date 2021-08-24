@@ -1,0 +1,45 @@
+.blog-outer-div
+{
+    background-color: rgb(166, 170, 199);
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+}
+button{
+    border: none;
+    background-color: inherit;
+    font-size: 16px;
+    color: rgb(18, 18, 59);
+    cursor: pointer;
+    margin-bottom: 10px;
+    background-color: rgb(206, 215, 218);
+    padding: 9px;
+    border-radius: 5px;
+}
+input{
+    
+    background-color: lightcyan;
+    font-size: 16px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+form button{
+    margin-left: 20px;
+    background-color: lightskyblue;
+}
+
+.blog-inner-div
+{
+    display: flex;
+    justify-content: space-around;
+    width: 74%;
+    margin: auto;
+}
+
+.creat-button
+{
+    background-color: rgb(90, 185, 90);
+    color: rgb(87, 24, 13);
+}
+

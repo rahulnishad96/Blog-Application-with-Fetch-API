@@ -1,0 +1,33 @@
+
+.detailsBlog-outer-div
+{
+    width: 80%;
+    margin: auto;
+}
+.detailsBlog-outer-div p
+{
+    width: 60%;
+    margin: auto;
+    
+}
+.button-div
+{
+    display: flex;
+    justify-content: space-around;
+}
+.button-div button
+{
+    width: 100px;
+}
+.button-div .home
+{
+    background-color: lightseagreen;
+}
+.button-div .delete
+{
+    background-color:rgb(224, 116, 152);
+}
+.button-div .edit
+{
+    background-color:rgb(195, 197, 93);
+}
