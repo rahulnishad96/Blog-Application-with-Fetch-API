@@ -17,6 +17,18 @@
       "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
       "status": "Procesing",
       "id": 3
+    },
+    {
+      "title": "Rahul Nishad from Allahabad",
+      "description": "It is for who just joined our In the previous example, we had directly rendered the list to the DOM. But it is not a good practice to render lists in React. In React, we had already seen that everything is built as individual components. Hence, we would need to render lists inside a component. We can understand it in the following code. In the previous example, we had directly rendered the list to the DOM. But it is not a good practice to render lists in React. In React, we had already seen that everything is built as individual components. Hence, we would need to render lists inside a component. We can understand it in the following code. Company",
+      "status": "Procesing",
+      "id": 4
+    },
+    {
+      "title": "Ram",
+      "description": "something",
+      "status": "Procesing",
+      "id": 6
     }
   ]
 }
