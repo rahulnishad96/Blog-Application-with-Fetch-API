@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { useHistory } from "react-router-dom";
+import {url} from '../../url';
 import "./AddBlog.css";
 
 function AddBlog() {
-  const url = "http://localhost:1000/blog";
   const initaiState = {
     title: "",
     description: "",

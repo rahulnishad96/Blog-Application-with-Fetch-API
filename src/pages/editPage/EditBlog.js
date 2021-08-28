@@ -1,8 +1,8 @@
 import React,{useState,useEffect} from 'react'
 import { useHistory,useParams} from 'react-router-dom';
+import {url} from '../../url';
 
 function EditBlog() {
-    const url='http://localhost:1000/blog';
     const initaiState={
         title:"",
         description:"",
@@ -75,7 +75,7 @@ function EditBlog() {
                 <label for="description">Description : </label>
                 <input className="description" type="textarea" placeholder="Enter Description..." name="description" value={description || ""} onChange={inputChangeHandler} /><br/>
                 <label for="status">Choose Blog Status : </label>
-                <select className="status" name="status" onChange={inputChangeHandler} >
+                <select className="status" name="status" onChange={inputChangeHandler} value={status || ""} >
                     <option value="Comming">Comming</option>
                     <option value="Procesing">Procesing</option>
                     <option value="Ended">Ended</option>

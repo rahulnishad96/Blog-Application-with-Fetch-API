@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import "./HomePage.css";
 import { useHistory } from "react-router-dom";
+import {url} from '../../url';
 
-const url = "http://localhost:1000/blog";
 
 function HomePage() {
   const [blogs, setBlogs] = useState([]);

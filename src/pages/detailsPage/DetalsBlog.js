@@ -1,8 +1,7 @@
 import React,{useEffect,useState} from 'react'
 import { useHistory,useParams } from 'react-router-dom';
 import './DetailsBlog.css';
-
-const url= "http://localhost:1000/blog";
+import {url} from '../../url';
 
 function DetalsBlog() {
 

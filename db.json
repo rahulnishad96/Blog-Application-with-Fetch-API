@@ -3,13 +3,13 @@
     {
       "title": "Rahul Nishad from Allahabad",
       "description": "This is my full name",
-      "status": "Procesing",
+      "status": "Comming",
       "id": 1
     },
     {
       "title": "ROLL number of my college",
       "description": "It is for who just joined our In the previous example, we had directly rendered the list to the DOM. But it is not a good practice to render lists in React. In React, we had already seen that everything is built as individual components. Hence, we would need to render lists inside a component. We can understand it in the following code. In the previous example, we had directly rendered the list to the DOM. But it is not a good practice to render lists in React. In React, we had already seen that everything is built as individual components. Hence, we would need to render lists inside a component. We can understand it in the following code. Company",
-      "status": "Procesing",
+      "status": "Comming",
       "id": 2
     },
     {
